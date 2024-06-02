@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 ---
 
 Haoxiang is working hard...
