@@ -1,32 +1,6 @@
 ---
-title: "Layout: Header Image Overlay with Custom Tagline"
-tagline: "This is a custom tagline content which overrides the *default* page excerpt."
-header:
-  overlay_image: /images/MIZUGOROU.JPG
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "Learn more"
-      url: "https://unsplash.com"
-categories:
-  - Layout
-  - Uncategorized
-tags:
-  - edge case
-  - image
-  - layout
-last_modified_at: 2018-03-20T16:00:52-04:00
-permalink: /
----
-
-This post should display a **header with an overlay image**, if the theme supports it.
-
-Non-square images can provide some unique styling issues.
-
-This post tests overlay header images.
-
-<!---
----
 title: "Haoxiang Lin (林浩翔)"
+tagline: ""
 header:
   overlay_image: /images/MIZUGOROU.JPG
   overlay_filter: 0.5
@@ -34,4 +8,3 @@ permalink: /
 ---
 
 Mizugorou-san is thinking...
--->
