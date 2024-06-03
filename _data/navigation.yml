@@ -1,10 +1,12 @@
 # main links
 main:
+  - title: "ABOUT ME"
+    url: /about/
   - title: "PROFILE"
     url: /profile/
   - title: "RESEARCH"
     url: /research/
   - title: "PUBLICATIONS"
     url: /pubs/
-  - title: "POSTS"
-    url: /posts/
+  - title: "LINKS"
+    url: /links/
