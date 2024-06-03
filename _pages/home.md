@@ -1,6 +1,8 @@
 ---
+title: "Haoxiang Lin (林浩翔)"
 header:
-  image: /images/MIZUGOROU.JPG
+  overlay_image: /images/MIZUGOROU.JPG
+  overlay_filter: 0.5
 permalink: /
 ---
 
