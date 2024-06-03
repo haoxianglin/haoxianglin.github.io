@@ -14,6 +14,7 @@ tags:
   - image
   - layout
 last_modified_at: 2018-03-20T16:00:52-04:00
+permalink: /
 ---
 
 This post should display a **header with an overlay image**, if the theme supports it.
