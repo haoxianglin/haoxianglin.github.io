@@ -1,5 +1,7 @@
 ---
+header:
+  image: /images/MIZUGOROU.JPG
 permalink: /
 ---
 
-Haoxiang is working hard...
+Mizugorou-san is thinking...
