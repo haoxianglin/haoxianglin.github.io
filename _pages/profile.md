@@ -34,6 +34,6 @@ Skills
 
 Grants
 ======
-* KIAA fellowship, 博士后国际交流计划引进项目 No.YJ20220017 (2022-2024)
-* JSPS DC2, KAKENHI No.20J12200 (2020-2022)
-* MEXT scholarship No.162047 (2016-2021)
+* KIAA fellowship, International Postdoctoral Exchange Fellowship Program No.YJ20220017 (2022-2024)
+* JSPS Research Fellowship DC2, KAKENHI No.20J12200 (2020-2022)
+* University Recommended Japanese Government (MEXT) Scholarship No.162047 (2016-2021)
