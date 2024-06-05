@@ -16,7 +16,6 @@ Experience
 ======
 * 2022.10 - 2024.9: postdoctoral researcher
   * The Kavli Institute for Astronomy and Astrophysics (KIAA), Peking University
-  * Organizer of KIAA-DoA Seminar (2023-2024)
   * Host: [Prof. Zhuo Li](https://kiaa.pku.edu.cn/info/1010/2662.htm)
 
 * 2021.12 - 2022.8: postdoctoral researcher
@@ -26,11 +25,6 @@ Experience
 * Summer 2015: Research Intern
   * The University of Western Australia
   * Supervisor: [Prof. David Coward](https://research-repository.uwa.edu.au/en/persons/david-coward)
-  
-Skills
-======
-* C++, Python
-* JLPT N1 合格
 
 Grants
 ======
