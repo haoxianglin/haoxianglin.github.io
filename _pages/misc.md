@@ -57,8 +57,9 @@ Supervisor: [Prof. David Coward](https://research-repository.uwa.edu.au/en/perso
 Computational experience
 ======
 Python 
-  * Modeling code of multi-messenger detection rate from binary neutron star mergers (2018)
-  * Modeling code of non-thermal emission from a relativistic structured jet (2016)
+  * Modeling code of prompt, afterglow, and line emission of GRB 221009A (2023)
+  * Modeling code of multi-messenger detection rate from binary neutron star mergers (2019)
+  * Modeling code of non-thermal emission from a relativistic structured jet (2017)
 
 C++
   * Modeling code of magnetohydrodynamic effect in accretion disks of magnetic neutron stars (2016)
