@@ -16,7 +16,7 @@ Invited Conferences/Seminars
 [1] "Nonthermal afterglow of GW170817: a more natural modeling of electron energy distribution leads to a new solution", YITP seminar, KyotoU, Japan (Jan 2019)
 
 
-Contributed International Conferences (selected)
+Contributed Conferences (selected)
 ======
 [10] "GRB 221009A: a Window into the Prompt-to-Afterglow Transition in Gamma-Ray Bursts" (oral), [The 3rd Nanjing GRB Conference](http://grb2024.scientistsupport.com.cn:8088), Suzhou, China (May 2024)
 
