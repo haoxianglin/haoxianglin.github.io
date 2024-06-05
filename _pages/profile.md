@@ -22,10 +22,6 @@ Experience
   * The University of Tokyo
   * Host: [Prof. Tomonori Totani](https://sites.google.com/view/tomonori-totani-eng/)
 
-* Summer 2015: Research Intern
-  * The University of Western Australia
-  * Supervisor: [Prof. David Coward](https://research-repository.uwa.edu.au/en/persons/david-coward)
-
 Grants
 ======
 * KIAA fellowship, International Postdoctoral Exchange Fellowship Program No.YJ20220017 (2022-2024)
