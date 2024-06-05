@@ -7,6 +7,12 @@ redirect_from:
   - /resume
 ---
 
+Profile
+======
+* Haoxiang Lin (林 浩翔)
+* Postdoc at Peking University (KIAA fellow)
+* haoxiang.linear@gmail.com
+
 Education
 ======
 * Ph.D in Astronomy, The University of Tokyo, 2016.9 - 2021.11
