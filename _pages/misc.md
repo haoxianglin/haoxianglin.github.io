@@ -61,7 +61,7 @@ Python
   * Modeling code of non-thermal emission from a relativistic structured jet (2016)
 
 C++
-  * Modeling code of Hall effect in accretion disks of magnetic neutron stars (2016)
+  * Modeling code of magnetohydrodynamic effect in accretion disks of magnetic neutron stars (2016)
   * Catalog matching code using binary search algorithm, applied to star catalogs of [UCAC4](https://irsa.ipac.caltech.edu/data/UCAC4/ucac4.html) and [LAMOST](http://www.lamost.org/dr7/v2.0/catalogue) (2014)
   * Modeling code of pulsar braking index (2013)
 
