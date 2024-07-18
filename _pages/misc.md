@@ -47,7 +47,7 @@ Co-organizer of KIAA-DoA Seminar (Jun 2023 - )
 
 Research Intern
 ======
-UWA-USTC/NJU Research Training Program, The University of Western Australia (UWA), 2015 summer
+UWA-USTC/NJU Research Training Program, The University of Western Australia (UWA), 2015 summer, Perth, Australia
 
 Project: "A false intrinsic correlation in gamma-ray burst afterglow data"
 
