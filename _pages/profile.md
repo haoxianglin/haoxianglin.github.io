@@ -30,6 +30,6 @@ Experience
 
 Grants
 ======
-* KIAA fellowship, International Postdoctoral Exchange Fellowship Program No.YJ20220017 (2022-2024)
-* JSPS Research Fellowship DC2, KAKENHI No.20J12200 (2020-2022)
-* University Recommended Japanese Government (MEXT) Scholarship No.162047 (2016-2021)
+* International Postdoctoral Exchange Fellowship Program No.YJ20220017
+* JSPS Research Fellowship DC No.202012200 (KAKENHI No.20J12200)
+* University-Recommended Japanese Government (MEXT) Scholarship No.162047
