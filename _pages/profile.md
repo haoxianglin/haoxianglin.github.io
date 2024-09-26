@@ -10,7 +10,6 @@ redirect_from:
 Profile
 ======
 * Haoxiang Lin (林 浩翔)
-* Postdoc at Peking University (KIAA fellow)
 * haoxiang.linear@gmail.com
 
 Education
@@ -20,16 +19,18 @@ Education
 
 Experience
 ======
-* 2022.10 - 2024.9: postdoctoral researcher
-  * The Kavli Institute for Astronomy and Astrophysics (KIAA), Peking University
+* Postdoc at Peking University, 2022.10 - 
   * Host: [Prof. Zhuo Li](https://kiaa.pku.edu.cn/info/1010/2662.htm)
+  * Organizer of astronomy weekly seminar for postdocs and phd students
 
-* 2021.12 - 2022.8: postdoctoral researcher
-  * The University of Tokyo
+* Postdoc at The University of Tokyo
   * Host: [Prof. Tomonori Totani](https://sites.google.com/view/tomonori-totani-eng/)
+ 
+* Research Intern at The University of Western Australi
+  * Host: [Prof. David Coward](https://research-repository.uwa.edu.au/en/persons/david-coward)
 
 Grants and Fellowships
 ======
-* China International Postdoctoral Exchange Fellowship No.YJ20220017
-* JSPS Research Fellowship DC No.202012200 (KAKENHI No.20J12200)
-* University-Recommended Japanese Government (MEXT) Scholarship No.162047
+* China International Postdoctoral Fellowship No.YJ20220017 (300,000 CNY/year + 50,000 CNY grant)
+* JSPS Research Fellowship DC No.202012200 (200,000 JPY/month + 1,700,000 JPY grant)
+* University-Recommended apanese Government MEXT Scholarship No.162047 (147,000 JPY/month)
