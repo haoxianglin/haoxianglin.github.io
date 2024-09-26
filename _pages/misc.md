@@ -40,7 +40,7 @@ for origins of cosmic rays and future perspectives](http://www2.yukawa.kyoto-u.a
 [1] "Nonthermal afterglow of GW170817: a more natural electron energy distribution leads to a new solution with radio flux in the low frequency synchrotron tail" (poster), [IWARA2018](https://indico.cern.ch/event/646046/), Ollantaytambo, Peru (Sep 2018)
 
 
-Service
+<!-- Service
 ======
 Co-organizer of KIAA-DoA Seminar (Jun 2023 - )
 
@@ -51,7 +51,7 @@ UWA-USTC/NJU Research Training Program, The University of Western Australia (UWA
 
 Project: "A false intrinsic correlation in gamma-ray burst afterglow data"
 
-Supervisor: [Prof. David Coward](https://research-repository.uwa.edu.au/en/persons/david-coward)
+Supervisor: [Prof. David Coward](https://research-repository.uwa.edu.au/en/persons/david-coward) -->
 
 
 Computational experience
