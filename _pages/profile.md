@@ -28,8 +28,8 @@ Experience
   * The University of Tokyo
   * Host: [Prof. Tomonori Totani](https://sites.google.com/view/tomonori-totani-eng/)
 
-Grants
+Grants and Fellowships
 ======
-* International Postdoctoral Exchange Fellowship Program No.YJ20220017
+* China International Postdoctoral Exchange Fellowship No.YJ20220017
 * JSPS Research Fellowship DC No.202012200 (KAKENHI No.20J12200)
 * University-Recommended Japanese Government (MEXT) Scholarship No.162047
