@@ -29,6 +29,18 @@ Experience
 * Research Intern at The University of Western Australi, 2015.7 - 2015.8
   * Host: [Prof. David Coward](https://research-repository.uwa.edu.au/en/persons/david-coward)
 
+
+Skills and Qualifications
+======
+**Programming Languages**: Python (main), C++, SQL, MATLAB, Mathematica, LaTeX
+
+**Data Science & Statistics**: Numpy, Scipy, Matplotlib, Pandas, Bayesian, Monte Carlo, Optimization
+
+**Languages**: English (fluent), Japanese (JLPT-N1), Chinese (native)
+
+**Working Visa**: Highly skilled professional in Japan till 2027.2.
+
+
 Grants and Fellowships
 ======
 * China International Postdoctoral Fellowship No.YJ20220017 (300,000 CNY/year + 50,000 CNY grant)
