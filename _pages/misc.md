@@ -56,10 +56,13 @@ Supervisor: [Prof. David Coward](https://research-repository.uwa.edu.au/en/perso
 
 Computational experience
 ======
-**Programming Languages**: Python (main), C++, SQL, MATLAB, Mathematica, LaTeX \\
-**Data Science & Statistics**: Numpy, Scipy, Matplotlib, Pandas, Bayesian, Monte Carlo, Optimization\\
-**Languages**: English (fluent), Japanese (JLPT-N1), Chinese (native) \\
-**Working Visa**: Highly skilled professional in Japan till 2027.02.
+**Programming Languages**: Python (main), C++, SQL, MATLAB, Mathematica, LaTeX
+
+**Data Science & Statistics**: Numpy, Scipy, Matplotlib, Pandas, Bayesian, Monte Carlo, Optimization
+
+**Languages**: English (fluent), Japanese (JLPT-N1), Chinese (native)
+
+**Working Visa**: Highly skilled professional in Japan till 2027.2.
 
 <!-- Python 
   * Modeling code of prompt, afterglow, and line emission of GRB 221009A (2023)
