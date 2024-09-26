@@ -56,7 +56,12 @@ Supervisor: [Prof. David Coward](https://research-repository.uwa.edu.au/en/perso
 
 Computational experience
 ======
-Python 
+**Programming Languages**: Python (main), C++, SQL, MATLAB, Mathematica, LaTeX \\
+**Data Science & Statistics**: Numpy, Scipy, Matplotlib, Pandas, Bayesian, Monte Carlo, Optimization\\
+**Languages**: English (fluent), Japanese (JLPT-N1), Chinese (native) \\
+**Working Visa**: Highly skilled professional in Japan till 2027.02.
+
+<!-- Python 
   * Modeling code of prompt, afterglow, and line emission of GRB 221009A (2023)
   * Modeling code of multi-messenger detection rate from binary neutron star mergers (2019)
   * Modeling code of non-thermal emission from a relativistic structured jet (2017)
@@ -77,4 +82,4 @@ English
   * GRE Physics: 990/990 (2015)
 
 Japanese
-  * JLPT N1: 110/180 (2020)
+  * JLPT N1: 115/180 (2021) -->
