@@ -7,6 +7,18 @@ redirect_from:
   - /miscellaneous
 ---
 
+Skills and Qualifications
+======
+**Programming Languages**: Python (main), C++, SQL, MATLAB, Mathematica, LaTeX
+
+**Data Science & Statistics**: Numpy, Scipy, Matplotlib, Pandas, Bayesian, Monte Carlo, Optimization
+
+**Languages**: English (fluent), Japanese (JLPT-N1), Chinese (native)
+
+**Working Visa**: Highly skilled professional in Japan till 2027.2.
+
+
+
 Invited Conferences/Seminars
 ======
 [3] "GRB 221009A: a Window into the Prompt-to-Afterglow Transition in Gamma-Ray Bursts", DoA Seminar, UTokyo, Japan (Mar 2024)
@@ -52,17 +64,6 @@ UWA-USTC/NJU Research Training Program, The University of Western Australia (UWA
 Project: "A false intrinsic correlation in gamma-ray burst afterglow data"
 
 Supervisor: [Prof. David Coward](https://research-repository.uwa.edu.au/en/persons/david-coward) -->
-
-
-Skills and Qualifications
-======
-**Programming Languages**: Python (main), C++, SQL, MATLAB, Mathematica, LaTeX
-
-**Data Science & Statistics**: Numpy, Scipy, Matplotlib, Pandas, Bayesian, Monte Carlo, Optimization
-
-**Languages**: English (fluent), Japanese (JLPT-N1), Chinese (native)
-
-**Working Visa**: Highly skilled professional in Japan till 2027.2.
 
 <!-- Python 
   * Modeling code of prompt, afterglow, and line emission of GRB 221009A (2023)
