@@ -54,7 +54,7 @@ Project: "A false intrinsic correlation in gamma-ray burst afterglow data"
 Supervisor: [Prof. David Coward](https://research-repository.uwa.edu.au/en/persons/david-coward) -->
 
 
-Computational experience
+Skills and Qualifications
 ======
 **Programming Languages**: Python (main), C++, SQL, MATLAB, Mathematica, LaTeX
 
