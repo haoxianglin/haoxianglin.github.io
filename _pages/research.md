@@ -6,7 +6,7 @@ permalink: /research/
 author_profile: true
 ---
 
-The BOAT GRB
+The Brightest-Of-All-Time Gamma-Ray Burst
 ======
 I have contributed to the data analysis, visualization, and modeling of the brightest-of-all-time (BOAT) gamma-ray busrt ever recorded (GRB 221009A), in collaboration with a satellite team ([GECAM (Gravitational wave high-energy Electromagnetic Counterpart All-sky Monitor)](https://gecam.ihep.ac.cn)) from the Chinese Academy of Sciences. I led as corresponding author of two papers published in the main astronomy journal letters (ApJ Letters):
 
