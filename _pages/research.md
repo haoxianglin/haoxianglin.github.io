@@ -12,9 +12,9 @@ I have contributed to the data analysis, visualization, and modeling of the brig
 
 This project led to two papers published in the main astronomy journal letters (ApJ Letters):
 
-[Relation between prompt and afterglow emission](https://iopscience.iop.org/article/10.3847/2041-8213/ad758e)
+[Relation between prompt and afterglow emission](https://iopscience.iop.org/article/10.3847/2041-8213/ad6df8)
 
-[Interpretation about line emission](https://iopscience.iop.org/article/10.3847/2041-8213/ad6df8)
+[Interpretation about line emission](https://iopscience.iop.org/article/10.3847/2041-8213/ad758e)
 
 *Continuous energy injection*: modeling the observed correlation between cumulative prompt luminosity and afterglow luminosity with a time delay:
 ![continuous energy injection](/images/energy_injection.png)
