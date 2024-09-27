@@ -19,7 +19,7 @@ This project led to two papers published in the main astronomy journal letters (
 *Continuous energy injection*: modeling the observed correlation between cumulative prompt luminosity and afterglow luminosity with a time delay:
 ![continuous energy injection](/images/energy_injection.png)
 
-*High latitude effect*: modeling the observation of a series emission lines with a time evolution index of $-1$:
+*High latitude effect*: modeling the observation of a series emission lines with a time evolution index of -1:
 ![high latitude effect](/images/high_latitude.png)
 
 Bayesian Multi-messenger Astronomy
